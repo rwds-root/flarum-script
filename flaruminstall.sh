@@ -9,8 +9,8 @@
 #==============================================================================
 
 #Change below to what you'd like
-MY_DOMAIN_NAME=cheesy.wtf
-MY_EMAIL=nginx@hotmail.com
+MY_DOMAIN_NAME=20.211.161.168/flarum
+MY_EMAIL=mqodri588@gmail.com
 DB_NAME=flarum
 DB_PSWD=flarum321
 
